@@ -159,6 +159,6 @@ AtxMarkdownToc.newInstance()
 
 [文件夹-目录生成测试案例](https://github.com/houbb/markdown-toc/blob/release_1.0.2/src/test/java/com/github/houbb/markdown/toc/core/impl/AtxMarkdownTocDirTest.java)
 
-# 其他
+# 其他的
 
 > [Issues & Bugs](https://github.com/houbb/markdown-toc/issues)
